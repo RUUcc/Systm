@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#2\\大作业\\高校图书借阅管理系统2\\tushuxt\\tushuxt.csproj": {}
+  },
+  "projects": {
+    "D:\\C#2\\大作业\\高校图书借阅管理系统2\\tushuxt\\tushuxt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#2\\大作业\\高校图书借阅管理系统2\\tushuxt\\tushuxt.csproj",
+        "projectName": "tushuxt",
+        "projectPath": "D:\\C#2\\大作业\\高校图书借阅管理系统2\\tushuxt\\tushuxt.csproj",
+        "packagesPath": "C:\\Users\\26814\\.nuget\\packages\\",
+        "outputPath": "D:\\C#2\\大作业\\高校图书借阅管理系统2\\tushuxt\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\26814\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.6.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
